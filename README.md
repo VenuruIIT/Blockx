@@ -1,1 +1,3 @@
 This project fights counterfeit drugs in pharmaceutical supply chains using Ethereum blockchain, QR codes, and smart contracts for secure and transparent transactions, enhancing overall supply chain integrity.
+
+update 1
